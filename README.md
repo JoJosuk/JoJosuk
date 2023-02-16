@@ -12,9 +12,9 @@ Hi there! I am currently studying Computer Science with a focus on Data Science.
 ___
 
 <p align="center">
-<a href="https://dev.to/joeljgeorge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joel j george" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/joeljgeorge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel j george" height="30" width="40" /></a>
+<a href="https://dev.to/joeljgeorge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joel j george" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/joeljgeorge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel j george" height="25" width="40" /></a>
 <!--<a href="https://leetcode.com/JoJo111/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="joel j george" height="35" width="30" /></a>-->
 
-<h3>Hey I got my [CV](https://drive.google.com/file/d/1b84QzrLBikfyRCoDKEMqzq1cDCf_GX3S/view?usp=sharing) right here</h3>
+Hey I got my [CV](https://drive.google.com/file/d/1b84QzrLBikfyRCoDKEMqzq1cDCf_GX3S/view?usp=sharing) right here
 
