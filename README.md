@@ -15,5 +15,5 @@ ___
 <a href="https://dev.to/joeljgeorge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joel j george" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/joeljgeorge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel j george" height="25" width="40" /></a>
 
-Hey I got my [CV](https://drive.google.com/file/d/1Glb88K6sRB827cUrFY57xlpYUFhY5kyH/view?usp=sharing) right here
+Hey I got my [CV](https://drive.google.com/file/d/1IVtbEueDAtIt8lo_r2fq09WLrLiGLotv/view?usp=sharing) right here
 
