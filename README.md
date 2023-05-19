@@ -16,4 +16,16 @@ ___
 <a href="https://www.linkedin.com/in/joeljgeorge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel j george" height="25" width="40" /></a>
 
 Hey I got my [CV](https://drive.google.com/file/d/1IVtbEueDAtIt8lo_r2fq09WLrLiGLotv/view?usp=sharing) right here
+  
+ ___
+  
+  <h3 align = "center"> My Technical Stack  
+    
+  <p>
+  <p align="center">
+  <a href="https://drive.google.com/file/d/1IVtbEueDAtIt8lo_r2fq09WLrLiGLotv/view?usp=sharing">
+    <img src="https://skillicons.dev/icons?i=flask,django,react,express,nodejs,nextjs,tailwind,mongodb,firebase,mysql,python,c,r,selenium,wordpress" />
+  </a>
+</p>
+  
 
