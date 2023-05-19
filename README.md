@@ -2,12 +2,18 @@
 
 
 <h5 align = "left">  &gt; 
-Hi there! I am currently studying Computer Science with a focus on Data Science. My passion for technology and programming has led me to explore various programming languages, and I am proficient in C++ and Python. I also have experience in full-stack development and enjoy working on projects that challenge me to think outside the box.</h5>
 
+> Hi there! 👋 I'm a Computer Science student with a focus on Data Science, constantly exploring the fascinating world of technology and programming. I'm passionate about leveraging the power of programming languages to solve complex problems. Here's a bit about me:
 
-<h5>&gt;I am very interested in Machine Learning and have been exploring it in my free time. I am excited about the possibilities that this field holds, and I am looking forward to learning more about it in the future. I believe that continuous learning is key to success in the field of programming, and I am always eager to stay up-to-date with the latest trends and technologies.</h5>
+- Studying Computer Science with a focus on Data Science 📚💻
+- Proficient in Python, R, and JavaScript (JS) programming languages 🐍📊🌐💻
+- Experienced in full-stack development, building both frontend and backend components using React, a popular JavaScript library for building user interfaces 🌐💪💻
+- Currently working on a project using Next.js, a powerful framework for building modern web applications with JavaScript (JS) 🌐🚀
+- Passionate about exploring cutting-edge technologies and embracing innovation 🔍🚀
+- Actively keeping up with the latest industry trends and advancements, including Python libraries and frameworks for data analysis and machine learning 🐍📈🧠
+- Values quality time spent with loved ones, striking a balance between work and personal life 👨‍👩‍👧‍👦❤️
 
-<h5>&gt;When I'm not coding or studying, you'll find me exploring new technologies and reading up on industry developments. I enjoy spending time with friends and family. Thanks for stopping by!</h5>
+Thanks for taking the time to read my profile! 😊👋
 
 ___
 
