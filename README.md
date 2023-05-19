@@ -3,7 +3,7 @@
 
 <h5 align = "left">  &gt; 
 
-> Hi there! 👋 I'm a Computer Science student with a focus on Data Science, constantly exploring the fascinating world of technology and programming. I'm passionate about leveraging the power of programming languages to solve complex problems. Here's a bit about me:
+>Hi there! 👋 I'm a Computer Science student with a focus on Data Science, constantly exploring the fascinating world of technology and programming. I'm passionate about leveraging the power of programming languages to solve complex problems. Here's a bit about me:
 
 - Studying Computer Science with a focus on Data Science 📚💻
 - Proficient in Python, R, and JavaScript (JS) programming languages 🐍📊🌐💻
