@@ -3,9 +3,9 @@
 ><h4 align="left"> Hi there! 👋 I'm a Computer Science student with a focus on Data Science, constantly exploring the fascinating world of technology and programming. I'm passionate about leveraging the power of programming languages to solve complex problems. Here's a bit about me:</h4>
 
 - Studying Computer Science with a focus on Data Science 📚💻
-- Proficient in Python, R, and JavaScript (JS) programming languages 🐍📊🌐💻
+- Proficient in Python, Rust, R, and JavaScript (JS) programming languages 🐍📊🌐💻
 - Experienced in full-stack development, building both frontend and backend components using React, a popular JavaScript library for building user interfaces 🌐💪💻
-- Currently working on a project using Next.js, a powerful framework for building modern web applications with JavaScript (JS) 🌐🚀
+- Currently working on a project using Tauri, a powerful framework for building modern desktop applications with Rus t⚙️
 - Passionate about exploring cutting-edge technologies and embracing innovation 🔍🚀
 - Actively keeping up with the latest industry trends and advancements, including Python libraries and frameworks for data analysis and machine learning 🐍📈🧠
 - Values quality time spent with loved ones, striking a balance between work and personal life 👨‍👩‍👧‍👦❤️
@@ -19,7 +19,7 @@ ___
   <a href="https://www.linkedin.com/in/joeljgeorge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel j george" height="25" width="40" /></a>
 </p>
 
-Hey, I've got my [Resume](https://drive.google.com/file/d/1IVtbEueDAtIt8lo_r2fq09WLrLiGLotv/view?usp=sharing) right here.
+Hey, I've got my [Resume](https://drive.google.com/file/d/1J3zi1_EQJktHyhd23nxor_GqABLZ9Byi/view?usp=sharing) right here.
 
 ___
 
