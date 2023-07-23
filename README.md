@@ -26,7 +26,7 @@ ___
 <h3 align="center">My Technical Stack</h3>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1IVtbEueDAtIt8lo_r2fq09WLrLiGLotv/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1J3zi1_EQJktHyhd23nxor_GqABLZ9Byi/view?usp=sharing">
     <img src="https://skillicons.dev/icons?i=tauri,flask,django,react,express,nodejs,tailwind,sass,mongodb,firebase,mysql,rust,python,js,ts,c,r,selenium,wordpress,netlify&perline=6" style="max-width: 100%;">
   </a>
 
