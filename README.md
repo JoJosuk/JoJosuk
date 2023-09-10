@@ -18,7 +18,7 @@ ___
   <a href="https://dev.to/joeljgeorge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joel j george" height="40" width="40" /></a>
   <a href="https://www.linkedin.com/in/joeljgeorge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel j george" height="25" width="40" /></a>
 </p>
-
+Hey Visit my  [Portfolio Website](https://www.joeljgeorge.tech)
 Hey, I've got my [Resume](https://drive.google.com/file/d/1J3zi1_EQJktHyhd23nxor_GqABLZ9Byi/view?usp=sharing) right here.
 
 ___
